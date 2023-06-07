@@ -4,10 +4,13 @@
 ///HOW TO USE///
 ////////////////
 
+/* IMPORTANT */
+This project works with Unreal Engine version 5.1 at least
+/* IMPORTANT */
+
 You can test the project either :
 - in the editor by launching the .uproject
 - generating the VS project files and compiling the .sln
-- launching the .exe in the Build/Windows folder
 
 In the editor, just play the current level and you will see the result
 
